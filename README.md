@@ -1,6 +1,8 @@
 ## HiddenDomainHunter
 
-English Version:
+English Docuemnt:
+
+https://github.com/J0o1ey/HiddenDomainHunter/blob/main/README_EN.md
 
 ### 设计思想
 
